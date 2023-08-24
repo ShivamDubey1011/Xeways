@@ -1,0 +1,112 @@
+@charset "utf-8";
+/* CSS Document */
+
+a{ color:#a94499; text-decoration:none;}
+a:hover{ color:#a94499; text-decoration:none;}
+
+body{ background:#d4d4d4; margin:0px; padding:0px; font:normal 11px/18px "Lucida Sans Unicode", "Lucida Grande", sans-serif;}
+h2{ font-family:Arial, Helvetica, sans-serif; font-weight:normal; font-size:20px;}
+#Wrapper{ width:100%; }
+.Topgreybar{ width:100%; background-color:#373737; height:50px;}
+.Container{ background:#FFF; width:1038px; margin:-21px auto 0px auto;}
+.Bottomgreybar{ width:100%;background-color:#b5b5b5; height:50px;}
+.Header{ width:1038px; float:left;}
+.Logoleft{ width:178px; margin:35px 25px 0px 50px; float:left;}
+.Logoleft img{ border:none;}
+
+.TopRightnav{ background:#a94499; height:62px; width:757px; color:#fff; text-transform:none; letter-spacing:0.6px; font:13px "Lucida Sans Unicode", "Lucida Grande", sans-serif; float:right; margin:35px 0px 0px 0px;}
+.TopRightnav a{ color:#fff; font:normal 13px "Lucida Sans Unicode", "Lucida Grande", sans-serif; padding:0px 5px 0px 0px; margin:0px; text-decoration:none;}
+.TopRightnav a:hover{ color:#ffcc00; font:normal 13px "Lucida Sans Unicode", "Lucida Grande", sans-serif; padding:0px 5px 0px 0px; margin:0px; text-decoration:none;}
+
+
+
+
+.MenuColum1{ width:175px; float:left; line-height:22px; border-right:1px dotted #d6d5d5; margin:8px 0 0 20px;}
+.MenuColum1 li{ list-style:none; padding:0px; margin:0px;}
+.MenuColum1  ul{ padding:0px; margin:0px;}
+
+.MenuColum2{ width:170px; float:left; line-height:22px; border-right:1px dotted #d6d5d5; margin:8px 0 0 20px;}
+.MenuColum2 li{ list-style:none; padding:0px; margin:0px;}
+.MenuColum2  ul{ padding:0px; margin:0px;}
+
+.MenuColum3{ width:170px; float:left; line-height:22px; border-right:1px dotted #d6d5d5; margin:8px 0 0 20px;}
+.MenuColum3 li{ list-style:none; padding:0px; margin:0px;}
+.MenuColum3  ul{ padding:0px; margin:0px;}
+
+.MenuColum4{ width:150px; float:left; line-height:22px; margin:8px 0 0 20px;}
+.MenuColum4 li{ list-style:none; padding:0px; margin:0px;}
+.MenuColum4  ul{ padding:0px; margin:0px;}
+
+.Topnav{ border-top:1.5px solid #d6d5d5; padding:10px 0 0 0; width:958px; width:757px; color:#a94499; text-transform:uppercase; font-family:Arial, Helvetica, sans-serif; font-weight:bold; letter-spacing:-1; font-size:17px; float:right; margin:35px 0px 0px 0px;}
+
+.captions{float:left; color:#666666; text-transform:uppercase; letter-spacing:-1px; font-family: font-weight:bold; letter-spacing:-1px; font-size:13px; padding-top:5px; padding-left:5px;}
+.captions2{float:left; color:#666666; text-transform:none; font-family:Arial, Helvetica, sans-serif; font-weight:bold; letter-spacing:0px; font-size:13px; padding:5px 0 0 0;}
+.SubTitles{color:#666666; text-transform:none; letter-spacing:0.5px; font-family:Arial, Helvetica, sans-serif; font-weight:bold; font-size:13px; padding-top:5px; padding-left:0px;}
+
+.HomeBanner{ float:left; width:1038px;}
+.HomeContent{ float:left; width:958px;}
+.HomeContent p{ color:#4D4D4D; font:14px/22px "Lucida Sans Unicode", "Lucida Grande", sans-serif; padding:5px 0px 5px 4px; margin:0px;}
+.HomeContent a{ color:#10422D; text-decoration:none; text-decoration:none;}
+
+.LeftSide{ height:680px auto; float:left; width:281px;}
+.MainSide{ float:right; margin-top:10px; width:757px;}
+.REACHUS{float:left; width:180px; margin:-33px 0 0 50px; color:#a94499; text-transform:none; letter-spacing:0.5px; font-family:Arial, Helvetica, sans-serif; font-weight:bold; font-size:17px; }
+
+.inREACHUS{float:left; width:180px; margin:-38px 0 0 50px; color:#a94499; text-transform:none; letter-spacing:0.5px; font-family:Arial, Helvetica, sans-serif; font-weight:bold; font-size:17px; }
+
+.INNERREACHUS{float:left; width:180px; position:relative; margin:auto 50px; color:#a94499; text-transform:none; letter-spacing:0.5px; font-family:Arial, Helvetica, sans-serif; font-weight:bold; font-size:17px; }
+
+.Director{float:left; width:180px; margin:50px 0 0 50px; color:#a94499; text-transform:none; letter-spacing:0.5px; font-family:Arial, Helvetica, sans-serif; font-weight:bold; font-size:17px; }
+.PurpleContent{ font-size:13px; font-weight:normal; text-transform:none; font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif; margin:10px 0 0 0;}
+.PurpleContent ul{ padding:0px; margin:0px;}
+.PurpleContent li{ list-style:none; padding:0px; margin:0px;}
+
+.LeftContent{ font-size:13px; font-weight:normal; text-transform:none; color:#666; font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif; margin:10px 0 0 0;}
+
+.ViewMore{ font-size:13px; font-weight:normal; float:right; text-transform:none; color:#a94499; font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;margin:10px 0 0 0;}
+.ViewMore a{ font-size:13px; font-weight:normal; text-transform:none; color:#a94499; font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif; margin:10px 0 0 0;}
+.ViewMore a:hover{ font-size:13px; font-weight:normal;  text-transform:none; color:#666; font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif; margin:10px 0 0 0;}
+
+
+
+
+
+.Footer{ float:left; width:1015px; color:#999999; font-size:11px; padding:10px 0px 10px 0px; background:#f0f0f0; margin:10px 0px 30px 0px;}
+.Footer a{ color:#999999; text-decoration:none; font-size:11px; padding:0px 8px 0px 8px;}
+.CopyRight{ float:left; width:360px; color:#999; letter-spacing:0.5px; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; font-weight:bold; font-size:11px; padding:0px; margin:0px 0px 0px 50px; text-transform:none;}
+.CopyRight a{ float:left; width:360px; color:#a94499; letter-spacing:0.5px; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; font-weight:bold; font-size:11px; padding:0px; margin:0px 0px 0px 50px; text-transform:none;}
+
+.FooterMenu{ float:right; height:10px; width:398px; color:#999; letter-spacing:0.5px; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; font-weight:bold; font-size:11px; padding:0px; margin:0px; text-transform:none;}
+.FooterMenu ul{ padding:0px; margin:0px;}
+.FooterMenu li{ list-style:none; float:left; color:#4D4D4D; padding:0px; margin:0px;}
+.FooterMenu a{  width:505px; color:#999; letter-spacing:0.5px; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; font-weight:bold; font-size:11px; padding:0px; margin:0px; text-transform:none;}
+.FooterMenu a:hover{padding:0px; margin:0px; color:#a94499; letter-spacing:0.5px; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; font-weight:bold; font-size:11px; text-transform:none;}
+
+.MainSideTitle{ border-bottom:1.5px solid #d6d5d5; margin:10px 50px 10px 0; color:#999; text-transform:none; font-family:Arial, Helvetica, sans-serif; font-weight:normal; letter-spacing:-1; font-size:14px; }
+
+.RightMainTitle{ width:270px; color:#a94499; text-transform:uppercase; letter-spacing:-1px; font-family:Arial, Helvetica, sans-serif; font-weight:bold; letter-spacing:-1; font-size:24px; }
+.Seprator{ width:4px; height:33px; float:right;}
+.SepratorText{margin:0px 0 0 295px; color:#999; text-transform:uppercase; font-family:Arial, Helvetica, sans-serif; font-weight:bold; letter-spacing:-1; font-size:12px; }
+
+.InnerContentColum{ width:700px; color:#999; text-transform:none; font:13px "Lucida Sans Unicode", "Lucida Grande", sans-serif; float:left; margin:15px 0px 0px 0px; line-height:18px; text-align:left;}
+
+.ThreeColums{ height:78px; width:757px; color:#999; text-transform:none; font:13px "Lucida Sans Unicode", "Lucida Grande", sans-serif; float:right; }
+.ThreeColums a{ font:normal 13px "Lucida Sans Unicode", "Lucida Grande", sans-serif; padding:0px 5px 0px 0px; margin:0px; text-decoration:none;}
+
+.Colum1{ width:240px; float:left; line-height:22px; border-right:1px dotted #d6d5d5; margin:8px 0 0 0px;}
+.Colum1 li{ list-style:none; padding:0px; margin:0px;}
+.Colum1  ul{ padding:20px 0 0 0; margin:0px;}
+.Colum1  h2{ margin:0px; padding:0px; font:Arial, Helvetica, sans-serif bold 20px; color:#a94499;}
+
+.Colum2{ width:360px; float:left; line-height:22px; border-right:1px dotted #d6d5d5; margin:8px 0 0 0px;}
+.Colum2 li{ list-style:none; padding:0px; margin:0px;}
+.Colum2  ul{ padding:20px 0 0 0; margin:0px;}
+.Colum2  h2{ margin:0px; padding:0px; font:Arial, Helvetica, sans-serif bold 20px; color:#a94499;}
+
+.Colum3{ width:220px; float:left; line-height:22px;margin:8px 0 0 20px;}
+.Colum3 li{ list-style:none; padding:0px; margin:0px;}
+.Colum3  ul{ padding:20px 0 0 0; margin:0px;}
+.Colum3  h2{ margin:0px; padding:0px; font:Arial, Helvetica, sans-serif 20px; color:#a94499;}
+
+.clrB{ clear:both;}
+label{ color:#a94499;}

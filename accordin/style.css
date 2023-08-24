@@ -1,0 +1,61 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 0.9em;
+}
+
+p {
+  line-height: 1.5em;
+}
+
+ul#menu, ul#menu ul {
+  list-style-type:none;
+  margin: 0px ;
+  padding: 0;
+  width: 20em;
+}
+
+ul#menu a {
+  display: block;
+  text-decoration: none;
+  }
+
+ul#menu li {
+  margin-top: 1px;
+  font-size:12px;
+  font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  color:#666;
+  font-weight:normal;
+  letter-spacing:0.2px;
+}
+
+ul#menu li a {
+  
+  color: #999;	
+  padding: 0.5px;
+}
+
+ul#menu li a:hover {
+  color: #000;
+}
+
+ul#menu li ul li a {
+  color: #999;
+  padding-left: 25px;
+  text-transform:none;
+  color:#666;
+  font-size:12px;
+}
+
+ul#menu li ul li a:hover {
+  font-size:12px;
+  border-left: 2px #A94499 solid;
+  padding-left: 25px;
+  text-transform:none;
+  color:#A94499;
+}
+
+.code { border: 1px solid #ccc; list-style-type: decimal-leading-zero; padding: 5px; margin: 0; }
+.code code { display: block; padding: 3px; margin-bottom: 0; }
+.code li { background: #ddd; border: 1px solid #ccc; margin: 0 0 2px 2.2em; }
+.indent1 { padding-left: 1em; }
+.indent2 { padding-left: 2em; }
